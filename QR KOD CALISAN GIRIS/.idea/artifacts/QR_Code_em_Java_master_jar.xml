@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="QR-Code-em-Java-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QR_Code_em_Java_master_jar</output-path>
+    <root id="root">
+      <element id="archive" name="QR-Code-em-Java-master.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/../META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="QR-Code-em-Java-master" />
+      </element>
+      <element id="library" level="project" name="lib1" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
